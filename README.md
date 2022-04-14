@@ -1,3 +1,1 @@
-0x00. C - Hello, World
-An introduction to C prgramming
-
+0x00. C - Hello, World An introduction to C prgramming
